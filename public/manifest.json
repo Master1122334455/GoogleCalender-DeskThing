@@ -1,1 +1,26 @@
-
+{
+  "id": "googlecalendar",
+  "isAudioSource": false,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "isLocalApp": false,
+  "requires": [],
+  "label": "Google Calendar",
+  "version": "0.10.0",
+  "version_code": "1.0",
+  "compatible_server": [
+    "v0.10.0"
+  ],
+  "compatible_client": [
+    "v0.10.0"
+  ],
+  "description": "App to display upcoming events from Google Calendar.",
+  "author": "Rific",
+  "platforms": [
+    "linux",
+    "windows",
+    "mac"
+  ],
+  "homepage": "",
+  "repository": ""
+}
